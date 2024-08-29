@@ -3,6 +3,8 @@
 
 edit: this is the first message i added to this
 
+EDIT, this is a message from the web version, it will now merge and go on the laptop version aswell (hopefully)
+
 
 ## 🤓 Course overview and learning outcomes 
 
