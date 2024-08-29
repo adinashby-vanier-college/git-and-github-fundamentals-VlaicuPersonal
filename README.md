@@ -5,6 +5,9 @@ edit: this is the first message i added to this
 
 EDIT, this is a message from the web version, it will now merge and go on the laptop version aswell (hopefully)
 
+some bad things happened, had to delete and clone it again, will it be able to commit again?
+
+
 
 ## 🤓 Course overview and learning outcomes 
 
